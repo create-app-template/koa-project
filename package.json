@@ -1,0 +1,32 @@
+{
+  "name": "koa-template",
+  "version": "1.0.0",
+  "description": "koa模板",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/luxixi-projects/koa-project.git"
+  },
+  "keywords": [
+    "koa"
+  ],
+  "author": "yunlong.wang",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/luxixi-projects/koa-project/issues"
+  },
+  "homepage": "https://github.com/luxixi-projects/koa-project#readme",
+  "dependencies": {
+    "babel-core": "^6.26.3",
+    "babel-polyfill": "^6.26.0",
+    "babel-preset-env": "^1.7.0",
+    "babel-preset-stage-2": "^6.24.1",
+    "knex": "^0.16.3",
+    "koa": "^2.6.2",
+    "koa-logger": "^3.2.0",
+    "koa-router": "^7.4.0"
+  }
+}
